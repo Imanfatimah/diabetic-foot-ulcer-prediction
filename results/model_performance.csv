@@ -1,0 +1,4 @@
+"Model","Accuracy","Sensitivity","Specificity","Precision","F1_Score","AUC"
+"Random Forest",96.34,100,86.67,95.2,97.54,99.45
+"XGBoost",96.34,100,86.67,95.2,97.54,93.97
+"SVM",87.8,94.96,68.89,88.98,91.87,94.32
